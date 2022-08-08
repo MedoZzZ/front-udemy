@@ -240,7 +240,6 @@ section .first .courses .videos article .price{
        order: 2;
     }
      header{
-        /* height: 400px; */
         flex-wrap: wrap;
     }
      header .photo{
