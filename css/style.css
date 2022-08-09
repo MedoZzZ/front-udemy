@@ -107,6 +107,7 @@ nav .services {
     color: white;
     font-size: larger;
 }
+/*header*/
 header{
     background-color: #F8F9FB;
     display: flex;
@@ -133,6 +134,7 @@ header card h1 ,p{
     justify-content: center;
     align-items: center;
 }
+/*section*/
 section .first{
     list-style: none;
     margin-left: 0px;
@@ -233,12 +235,11 @@ section .first .courses .videos article .price{
    text-decoration:line-through;
 }
 @media only screen and (max-width: 1000px){
-	/* [426px -> 600px]*/
+	
      header .card{
        order: 2;
     }
      header{
-        /* height: 400px; */
         flex-wrap: wrap;
     }
      header .photo{
@@ -246,8 +247,9 @@ section .first .courses .videos article .price{
     }
 
 }
+/*reesponsive*/
 @media only screen and (max-width: 900px){
-	/*Big smartphones [426px -> 600px]*/
+	
     .every{
         margin: 0px 50px;
         padding-left:0 ;
@@ -256,10 +258,7 @@ section .first .courses .videos article .price{
     section .first .courses .videos{
         justify-content: center;
     }
-    nav h4,
-    nav i,
-    nav .services,
-    nav .searchbar{
+    nav h4,nav i,nav .services, nav .searchbar{
         display: none;
     }
     nav .mIcon {
