@@ -10,8 +10,8 @@ body {
     --main: #f2f2f2;
 }
 .every{
-    padding-left: 400px;
-    padding-right:400px ;
+    margin-left: 200px;
+    margin-right:200px ;
 }
 .photo img{
     max-width: fit-content;
@@ -126,8 +126,7 @@ header .card{
     padding: 20px;
     height: 50%;
 }
-header .photo{
-}
+
 header img{
 width: 70%;
 
@@ -235,6 +234,15 @@ section .first .courses .videos article .rate{
 }
 section .first .courses .videos article .price{
    text-decoration:line-through;
+}
+@media only screen and (max-width: 1600px){
+   
+   .every{
+       margin: 0px 50px;
+       padding-left:0 ;
+       padding-right: 0;
+   }
+
 }
 @media only screen and (max-width: 1000px){
      header .card{
