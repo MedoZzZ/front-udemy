@@ -25,6 +25,8 @@ nav {
     justify-content: space-between;
     align-items: center;
     gap: 20px;
+    box-shadow: 11px 1px 13px -4px black;
+
 }
 
 nav .mIcon,
