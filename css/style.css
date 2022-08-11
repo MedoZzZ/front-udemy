@@ -107,7 +107,6 @@ nav .services {
     color: white;
     font-size: larger;
 }
-/*header*/
 header{
     background-color: #F8F9FB;
     display: flex;
@@ -118,33 +117,29 @@ header .card{
     margin: 20px;
     flex-grow: 2;
     padding: 20px;
+    height: 50%;
 }
 header .photo{
-    width: 50%;
-    height: 300px;
 }
 header img{
-    width: 100%;
-height: 100%;
-flex-grow: 2;
-justify-content: center;
-align-items: center;
+width: 70%;
+
 }
 header card h1 ,p{
     justify-content: center;
     align-items: center;
 }
-/*section*/
 section .first{
     list-style: none;
     margin-left: 0px;
     padding-left: 0;
     
 }
-section .first ul{
+section .first .cat{
     display: flex;
     text-decoration: none;
     justify-content: space-between;
+    gap: 10px;
 }
 section .first ul li{
     display: inline-block;
@@ -235,21 +230,23 @@ section .first .courses .videos article .price{
    text-decoration:line-through;
 }
 @media only screen and (max-width: 1000px){
-	
      header .card{
        order: 2;
     }
      header{
-        flex-wrap: wrap;
+                flex-wrap: wrap;
     }
      header .photo{
         width: 100%;
     }
+    .every{
+        margin: 0px 50px;
+        padding-left:0 ;
+        padding-right: 0;
+    }
 
 }
-/*reesponsive*/
 @media only screen and (max-width: 900px){
-	
     .every{
         margin: 0px 50px;
         padding-left:0 ;
@@ -258,7 +255,10 @@ section .first .courses .videos article .price{
     section .first .courses .videos{
         justify-content: center;
     }
-    nav h4,nav i,nav .services, nav .searchbar{
+    nav h4,
+    nav i,
+    nav .services,
+    nav .searchbar{
         display: none;
     }
     nav .mIcon {
