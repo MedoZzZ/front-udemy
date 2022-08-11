@@ -10,8 +10,8 @@ body {
     --main: #f2f2f2;
 }
 .every{
-    margin-left: 200px;
-    margin-right:200px ;
+    margin-left: 250px;
+    margin-right:250px ;
 }
 .photo img{
     max-width: fit-content;
@@ -202,7 +202,6 @@ section .first .courses{
 section .first .courses .videos{
     margin-top:30px ;
     padding: 30px;
-    width: 100%;
     display: flex;
     gap: 17px;
     flex-wrap: wrap;
@@ -241,8 +240,6 @@ section .first .courses .videos article .price{
    
    .every{
        margin: 0px 50px;
-       padding-left:0 ;
-       padding-right: 0;
    }
 
 }
@@ -256,19 +253,11 @@ section .first .courses .videos article .price{
      header .photo{
         width: 100%;
     }
-    .every{
-        margin: 0px 50px;
-        padding-left:0 ;
-        padding-right: 0;
-    }
+
 
 }
 @media only screen and (max-width: 900px){
-    .every{
-        margin: 0px 50px;
-        padding-left:0 ;
-        padding-right: 0;
-    }
+  
     section .first .courses .videos{
         justify-content: center;
     }
