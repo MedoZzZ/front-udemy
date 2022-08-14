@@ -1,0 +1,121 @@
+{
+    "courses": [
+        {
+            "id": 1,
+            "title": "The Python and Django Learning Guide",
+            "author": "Hussin Fuliah",
+            "image":"https://img-c.udemycdn.com/course/240x135/2426532_a277_7.jpg",
+            "price": "E£1,399.99",
+            "before": "E£1,599.99",
+            "rate": "4.6"
+        },
+        {
+            "id": 2,
+            "title": "The Complete Programming Fundamentals Course",
+            "author": "Abderrahmen Litprog",
+            "image": "https://img-c.udemycdn.com/course/240x135/4226056_5e40_3.jpg",
+            "price": "E£1,000.99",
+            "before": "E£1,599.99",
+            "rate": "4.6"
+        },
+        {
+            "id": 3,
+            "title": "Python For Beginners [in Arabic]",
+            "author": "ElAmir Mahmoud Mansour",
+            "image": "https://img-c.udemycdn.com/course/240x135/4230080_0693.jpg",
+            "price": "E£1,199.99",
+            "before": "E£1,499.99",
+            "rate": "4.6"
+        },
+        {
+            "id": 4,
+            "title": "تعلم البرمجة بلغة بايثون من الصفر خطوة بخطوة",
+            "author": "Hadi Hawla",
+            "image": "https://img-c.udemycdn.com/course/240x135/4434202_3db6.jpg",
+
+            "price": "E£1,799.99",
+            "before": "E£1,999.99",
+            "rate": "4.6"
+        },
+        {
+            "id": 5,
+            "title": "بايثون من الصفر الى الاحتراف",
+            "author": "Mahmoud Qaisiya",
+            "image": "https://img-c.udemycdn.com/course/240x135/4455448_6e62_4.jpg",
+
+            "price": "E£1,399.99",
+            "before": "E£1,599.99",
+            "rate": "4.6"
+        },
+        {
+            "id": 6,
+            "title": "The Web Front End Learning Guide",
+            "author": "Hassan Fulaih",
+            "image": "https://img-c.udemycdn.com/course/240x135/3107370_2fea_3.jpg",
+
+            "price": "E£1,299.99",
+            "before": "E£1,599.99",
+            "rate": "4.5"
+        },
+        {
+            "id": 7,
+            "title": "Javascript for Beginners",
+            "author": "Tech Learning Network",
+            "image": "https://img-c.udemycdn.com/course/240x135/8324_fa84_13.jpg",
+
+            "price": "E£1,099.99",
+            "before": "E£1,599.99",
+            "rate": "4.5"
+        },
+        {
+            "id": 8,
+            "title": "1 Hour JavaScript",
+            "author": "John Bura",
+            "image": "https://img-c.udemycdn.com/course/240x135/63612_8797_4.jpg",
+
+            "price": "E£1,399.99",
+            "before": "E£1,899.99",
+            "rate": "4.4"
+        },
+        {
+            "id": 9,
+            "title": "Javascript for Beginners Learn by Doing Practical Exercises",
+            "author": "Edwin Diaz, Coding Faculty Solutions",
+            "image": "https://img-c.udemycdn.com/course/240x135/405818_aa3f_3.jpg",
+
+            "price": "E£1,399.99",
+            "before": "E£1,599.99",
+            "rate": "4.6"
+        },
+        {
+            "id": 10,
+            "title": "Ultimate Microsoft Excel 2019",
+            "author": "Mohammed Abdel-Aal, Creative Youth Club",
+            "image": "https://img-c.udemycdn.com/course/240x135/2951296_e64b_7.jpg",
+
+            "price": "E£799,99",
+            "before": "E£899,99",
+            "rate": "4.6"
+        },
+        {
+            "id": 11,
+            "title": "Advanced Microsoft Excel for Accountants (In Arabic)",
+            "author": "Mohamed Magdy",
+            "image": "https://img-c.udemycdn.com/course/240x135/3125248_9066_4.jpg",
+
+            "price": "E£299,99",
+            "before": "E£699,99",
+            "rate": "4.6"
+        },
+        {
+            "id": 12,
+            "title": "Microsoft Excel 2013 Course Beginners/ Intermediate Training",
+            "author": "Infinite Skills",
+            "image": "https://img-c.udemycdn.com/course/240x135/31535_e351_7.jpg",
+
+            "price": "E£399,99",
+            "before": "E£599,99",
+            "rate": "4.6"
+        }
+    ]
+}
