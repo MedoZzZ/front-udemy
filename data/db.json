@@ -1,0 +1,176 @@
+{
+    "courses": [
+        {
+            "id": 1,
+            "mark":"python",
+            "title": "The Python and Django Learning Guide",
+            "author": "Hussin Fuliah",
+            "image":"https://img-c.udemycdn.com/course/240x135/2426532_a277_7.jpg",
+            "price": "E£1,399.99",
+            "before": "E£1,599.99",
+            "rate": "4.6"
+        },
+        {
+            "id": 2,
+            "mark":"python",
+            "title": "The Complete Programming Fundamentals Course",
+            "author": "Abderrahmen Litprog",
+            "image": "https://img-c.udemycdn.com/course/240x135/4226056_5e40_3.jpg",
+            "price": "E£1,000.99",
+            "before": "E£1,599.99",
+            "rate": "4.6"
+        },
+        {
+            "id": 3,
+            "mark":"python",
+            "title": "Python For Beginners [in Arabic]",
+            "author": "ElAmir Mahmoud Mansour",
+            "image": "https://img-c.udemycdn.com/course/240x135/4230080_0693.jpg",
+            "price": "E£1,199.99",
+            "before": "E£1,499.99",
+            "rate": "4.6"
+        },
+        {
+            "id": 4,
+            "mark":"python",
+            "title": "تعلم البرمجة بلغة بايثون من الصفر خطوة بخطوة",
+            "author": "Hadi Hawla",
+            "image": "https://img-c.udemycdn.com/course/240x135/4434202_3db6.jpg",
+
+            "price": "E£1,799.99",
+            "before": "E£1,999.99",
+            "rate": "4.6"
+        },
+        {
+            "id": 5,
+            "mark":"python",
+            "title": "بايثون من الصفر الى الاحتراف",
+            "author": "Mahmoud Qaisiya",
+            "image": "https://img-c.udemycdn.com/course/240x135/4455448_6e62_4.jpg",
+
+            "price": "E£1,399.99",
+            "before": "E£1,599.99",
+            "rate": "4.6"
+        },
+        {
+            "id": 6,
+            "mark":"java",
+            "title": "The Web Front End Learning Guide",
+            "author": "Hassan Fulaih",
+            "image": "https://img-c.udemycdn.com/course/240x135/3107370_2fea_3.jpg",
+
+            "price": "E£1,299.99",
+            "before": "E£1,599.99",
+            "rate": "4.5"
+        },
+        {
+            "id": 7,
+            "mark":"java",
+            "title": "Javascript for Beginners",
+            "author": "Tech Learning Network",
+            "image": "https://img-c.udemycdn.com/course/240x135/8324_fa84_13.jpg",
+
+            "price": "E£1,099.99",
+            "before": "E£1,599.99",
+            "rate": "4.5"
+        },
+        {
+            "id": 8,
+            "mark":"java",
+            "title": "1 Hour JavaScript",
+            "author": "John Bura",
+            "image": "https://img-c.udemycdn.com/course/240x135/63612_8797_4.jpg",
+
+            "price": "E£1,399.99",
+            "before": "E£1,899.99",
+            "rate": "4.4"
+        },
+        {
+            "id": 9,
+            "mark":"java",
+            "title": "Javascript for Beginners Learn by Doing Practical Exercises",
+            "author": "Edwin Diaz, Coding Faculty Solutions",
+            "image": "https://img-c.udemycdn.com/course/240x135/405818_aa3f_3.jpg",
+
+            "price": "E£1,399.99",
+            "before": "E£1,599.99",
+            "rate": "4.6"
+        },
+        {
+            "id": 10,
+            "mark":"excel",
+            "title": "Ultimate Microsoft Excel 2019",
+            "author": "Mohammed Abdel-Aal, Creative Youth Club",
+            "image": "https://img-c.udemycdn.com/course/240x135/2951296_e64b_7.jpg",
+
+            "price": "E£799,99",
+            "before": "E£899,99",
+            "rate": "4.6"
+        },
+        {
+            "id": 11,
+            "mark":"excel",
+            "title": "Advanced Microsoft Excel for Accountants (In Arabic)",
+            "author": "Mohamed Magdy",
+            "image": "https://img-c.udemycdn.com/course/240x135/3125248_9066_4.jpg",
+
+            "price": "E£299,99",
+            "before": "E£699,99",
+            "rate": "4.6"
+        },
+        {
+            "id": 12,
+            "mark":"excel",
+            "title": "Microsoft Excel 2013 Course Beginners/ Intermediate Training",
+            "author": "Infinite Skills",
+            "image": "https://img-c.udemycdn.com/course/240x135/31535_e351_7.jpg",
+
+            "price": "E£399,99",
+            "before": "E£599,99",
+            "rate": "4.6"
+        }
+    ],
+
+    "cate":[
+        {
+            "id":1,
+            "image": "https://s.udemycdn.com/home/top-categories/lohp-category-design-v2.jpg",
+            "title": "Design"
+        },
+        {
+            "id":2,
+            "image": "https://s.udemycdn.com/home/top-categories/lohp-category-development-v2.jpg",
+            "title": "Development"
+        },
+        {
+            "id":3,
+            "image": "https://s.udemycdn.com/home/top-categories/lohp-category-marketing-v2.jpg",
+            "title": "Marketing"
+        },
+        {
+            "id":4,
+            "image": "https://s.udemycdn.com/home/top-categories/lohp-category-it-and-software-v2.jpg",
+            "title": "IT and Software"
+        },
+        {
+            "id":5,
+            "image": "https://s.udemycdn.com/home/top-categories/lohp-category-personal-development-v2.jpg",
+            "title": "Personal Development"
+        },
+        {
+            "id":6,
+            "image": "https://s.udemycdn.com/home/top-categories/lohp-category-business-v2.jpg",
+            "title": "Business"
+        },
+        {
+            "id":7,
+            "image": "https://s.udemycdn.com/home/top-categories/lohp-category-photography-v2.jpg",
+            "title": "Photography"
+        },
+        {
+            "id":8,
+            "image": "https://s.udemycdn.com/home/top-categories/lohp-category-music-v2.jpg",
+            "title": "Music"
+        }
+    ]
+}
